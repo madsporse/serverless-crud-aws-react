@@ -1,6 +1,6 @@
 {
   "name": "Serverless CRUD AWS React",
-  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:4-24-trixie",
   
   "features": {
     "ghcr.io/devcontainers/features/aws-cli:1": {
